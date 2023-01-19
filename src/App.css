@@ -1,0 +1,42 @@
+body{
+  background-image: linear-gradient(to right, rgba(237, 80, 80,0.3),rgba(237, 80, 80,0.8));
+}
+#flexdiv{
+  width: 60%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+}
+.btns{
+  width: 60%;
+  margin: auto;
+}
+.btn{
+  padding: 1em;
+  margin: 2em;
+  background-color: skyblue;
+  font-size: 1em;
+  border-radius: 2em;
+}
+#head{
+  text-align: center;
+  opacity: 0,8em;
+  color: green;
+}
+.flex {
+  margin-left: 50%;
+}
+.flexbox{
+  margin: 2em;
+  text-align: center;
+  background-color: cyan;
+  border-radius: 3em;
+  box-shadow: 2px 2px 2px grey;
+  padding: 2em;
+  opacity: 0.9;
+}
+.excss{
+  font-size: 1.4em;
+  color: darkred;
+}
